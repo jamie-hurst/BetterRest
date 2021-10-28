@@ -79,7 +79,7 @@ struct ContentView: View {
                 Section {
                     Text(sleepResults)
                 } header: {
-                    Text("Recommended wake time")
+                    Text("Recommended bedtime")
                         .textCase(.none)
                         .font(.subheadline)
                 }
