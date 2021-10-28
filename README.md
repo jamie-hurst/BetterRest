@@ -1,5 +1,5 @@
 # BetterRest
-Project 4 from #100DaysOfSwiftUI @ hackingWithSwift.com
+## Project 4 from #100DaysOfSwiftUI @ hackingWithSwift.com
 
 This app uses a Core ML machine learning model trained using Create ML. It shows coffee drinkers their ideal bedtime by asking them 3 questions:
 
