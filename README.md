@@ -10,7 +10,8 @@ What's your desired amount of sleep?
 What's your daily coffee intake?
 
 
-https://user-images.githubusercontent.com/28959624/139301311-58acbef6-7042-478d-a1a2-6cce71898c23.mov
+https://user-images.githubusercontent.com/28959624/139322328-36882958-64cc-4628-9bc1-0096ac899645.mov
+
 
 
 
